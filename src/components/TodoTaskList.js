@@ -11,7 +11,7 @@ import TodoTask from './TodoTask';
 
 const styles = {
      slNum: {   
-        width: 10,
+        width: 30,
         paddingRight: 0
      },
      todoAction: {   

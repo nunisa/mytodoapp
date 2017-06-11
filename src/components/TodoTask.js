@@ -10,7 +10,7 @@ import * as actions from '../redux/actions/';
 
 const styles = {
      slNum: {   
-        width: 10,
+        width: 30,
         paddingRight: 0
      },
      todoAction: {   
